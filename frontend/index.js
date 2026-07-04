@@ -45,6 +45,7 @@ function getRandomUser()
 
     })
 }
-  console.log("Hello from JS");
-  alert("hello from js");
+  console.log("Hello from Ranga  ");
+  alert("hello Ranga vaishnavi");
+
   
